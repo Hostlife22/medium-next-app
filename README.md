@@ -2,6 +2,10 @@
 
 ### [Site link](https://medium-next-app.vercel.app/)
 
+<kbd>
+  <img align="right" alt="img" src="CW5TP6h.jpeg"  />
+</kbd>
+
 ### 🛠 The tech stack is:
 
 - [Nextjs](https://nextjs.org/)
